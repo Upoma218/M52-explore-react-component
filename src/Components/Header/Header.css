@@ -1,0 +1,16 @@
+.header a{
+    text-decoration: none;
+    color: rgb(153, 6, 179);
+    font-weight: 600;
+    padding: 5px;
+    margin: 20px;
+
+}
+.header a:hover{
+    background-color: rgb(153, 6, 179);
+    color: white;
+    border-radius: 30px;
+}
+.header{
+    margin: 20px;
+}
